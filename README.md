@@ -1,5 +1,5 @@
 # **Oats** 
-##### a comfy keyboard layout  
+##### a friendly & comfortable layout  
 
 ![oats](https://github.com/user-attachments/assets/76e9c39d-8684-4812-8887-f91c583ed7ed)
 
