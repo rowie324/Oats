@@ -1,5 +1,6 @@
 # **Oats** 
 ##### a friendly & comfortable layout  
+###### superceded by [zombie rats](https://github.com/rowie324/Zombie-Rats), a comfy layout with a funky name
 
 ![oats](https://github.com/user-attachments/assets/76e9c39d-8684-4812-8887-f91c583ed7ed)
 
