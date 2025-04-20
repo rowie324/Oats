@@ -1,1 +1,1 @@
-![oats2 svg 2025_04_20_00_32_49 0](https://github.com/user-attachments/assets/58031d73-f769-4939-8d56-b9e146b3d099)
+![oats2](https://github.com/user-attachments/assets/ed93b0ca-80d2-46fd-941e-9a3556c09d47)
