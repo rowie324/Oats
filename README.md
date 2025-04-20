@@ -26,6 +26,14 @@ Total Redirects: 10.803%
 
 Other: 9.579%
 Invalid: 1.397%
+
+Left hand: 44.52%
+Right hand: 55.13%
+
+Left center: 5.810%
+Right center: 2.700%
+
+Home keys usage: 58.37%
 ```
 
 stats provided by
