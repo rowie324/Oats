@@ -41,7 +41,7 @@ Home keys usage: 58.37%
 stats provided by
 [oxey's playground](https://oxey.dev/playground/index.html)  
 
-#### the adventure continues.. 
+*the adventure continues..*
 
 *o*ats on the homerow is something i kinda stumbled upon and have adored since. maybe its my autism speaking but i really like oats irl so i was like, okay this *has* to stay if i can help it. its been an interesting design challenge to say the least. 
 
