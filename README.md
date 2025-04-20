@@ -6,7 +6,32 @@ o a t s g  b n r e i
 - , m c v  k h w . /
         ␣  ⇧
 ```
-the adventure continues.. 
+```
+Sfb:  1.640%
+Dsfb: 7.582%
+Lsb:  0.628%
+
+Inrolls: 22.821%
+Outrolls: 24.782%
+Total Rolls: 47.604%
+Onehands: 2.304%
+
+Alternates: 22.076%
+Alternates (sfs): 6.238%
+Total Alternates: 28.314%
+
+Redirects: 7.754%
+BadRedirects: 3.049%
+Total Redirects: 10.803%
+
+Other: 9.579%
+Invalid: 1.397%
+```
+
+stats provided by
+[oxey's playground](https://oxey.dev/playground/index.html)  
+
+###### the adventure continues.. 
 
 *o*ats on the homerow is something i kinda stumbled upon and have adored since. maybe its my autism speaking but i really like oats irl so i was like, okay this *has* to stay if i can help it. its been an interesting design challenge to say the least. 
 
