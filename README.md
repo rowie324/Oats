@@ -1,5 +1,10 @@
 ![oats2](https://github.com/user-attachments/assets/ed93b0ca-80d2-46fd-941e-9a3556c09d47)
-
+```
+x y d f j  z p l u q
+o a t s g  b n r e i
+- , m c v  k h w . /
+        ␣  ⇧
+```
 the adventure continues.. 
 
 *o*ats on the homerow is something i kinda stumbled upon and have adored since. maybe its my autism speaking but i really like oats irl so i was like, okay this *has* to stay if i can help it. its been an interesting design challenge to say the least. 
