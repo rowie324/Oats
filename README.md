@@ -1,46 +1,9 @@
 
 <img width="3400" height="2013" alt="oats_3" src="https://github.com/user-attachments/assets/d678b81e-ea60-4e6d-9afc-9a3d91116f1a" />
 
-```
-x y d f j  z p l u q
-o a t s g  b n r e i
-- , m c v  k h w . /
-        ␣  ⇧
-```
-```
-Sfb:  1.640%
-Dsfb: 7.582%
-Lsb:  0.628%
+*the adventure continues some more...*
 
-Inrolls: 22.821%
-Outrolls: 24.782%
-Total Rolls: 47.604%
-Onehands: 2.304%
-
-Alternates: 22.076%
-Alternates (sfs): 6.238%
-Total Alternates: 28.314%
-
-Redirects: 7.754%
-BadRedirects: 3.049%
-Total Redirects: 10.803%
-
-Other: 9.579%
-Invalid: 1.397%
-
-- - - - - - - - - 
-
-Left hand: 44.52%
-Left center: 5.810%
-
-Right hand: 55.13%
-Right center: 2.700%
-
-Home keys usage: 58.37%
-```
-
-stats provided by
-[oxey's playground](https://oxey.dev/playground/index.html)  
+*o*ats 3.0 is an adaptation of the layout into a standard row-stagger keyboard, as this is what most people use and i think that from this, it leaves room for the user to adapt it to their needs a little bit more freely. <3
 
 *the adventure continues..*
 
