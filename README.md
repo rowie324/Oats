@@ -1,5 +1,4 @@
-
-<img width="3400" height="2013" alt="oats_3" src="https://github.com/user-attachments/assets/d678b81e-ea60-4e6d-9afc-9a3d91116f1a" />
+<img width="4029" height="2804" alt="oats_3" src="https://github.com/user-attachments/assets/fd9e9249-58ad-4d3b-a137-fcd3f0be166e" />
 
 *the adventure continues some more...*
 
