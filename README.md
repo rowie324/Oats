@@ -1,4 +1,5 @@
-![7drkobr0fxve1](https://github.com/user-attachments/assets/e3b5161c-c428-41c4-9f1b-e1696cad2261)
+
+<img width="3400" height="2013" alt="oats_3" src="https://github.com/user-attachments/assets/d678b81e-ea60-4e6d-9afc-9a3d91116f1a" />
 
 ```
 x y d f j  z p l u q
