@@ -1,6 +1,8 @@
 <img width="4029" height="2804" alt="oats_3" src="https://github.com/user-attachments/assets/6ec94cf9-eca9-4707-a69a-e5e3e622f15b" />
 <img width="3219" height="2135" alt="oats34" src="https://github.com/user-attachments/assets/2a0a1897-663e-4804-a46b-c0aaab1099dc" />
+
 i included the original 34-key layout here as i have grown to believe that for my own uses, learning an alternative keyboard layout on an alternative keyboard key layout is optimal so i do not mix up my muscle memory for standard row-stag keyboards at work and such.
+
 *the adventure continues some more...*
 
 *o*ats 3.0 is an adaptation of the layout into a standard row-stagger keyboard, as this is what most people use and i think that from this, it leaves room for the user to adapt it to their needs a little bit more freely. <3
